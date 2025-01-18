@@ -7,6 +7,7 @@ To analyze previous YouTube data in order to predict viewer trends for the next 
 # Process
 In this process, I used forecasting methods with advanced Excel, along with data cleaning, data modeling, and mathematical formulas to make predictions.
 # Project File
+https://github.com/pawansingh29806/YT_Data_Analysis/blob/main/YT%20Channel%20view%20Forecast.xlsx
 
 
 
